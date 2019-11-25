@@ -1,0 +1,11 @@
+/home/smokysk/Studies/CSharp/become_student/Exercises/OtherInput/bin/Debug/netcoreapp2.2/OtherInput.deps.json
+/home/smokysk/Studies/CSharp/become_student/Exercises/OtherInput/bin/Debug/netcoreapp2.2/OtherInput.runtimeconfig.json
+/home/smokysk/Studies/CSharp/become_student/Exercises/OtherInput/bin/Debug/netcoreapp2.2/OtherInput.runtimeconfig.dev.json
+/home/smokysk/Studies/CSharp/become_student/Exercises/OtherInput/bin/Debug/netcoreapp2.2/OtherInput.dll
+/home/smokysk/Studies/CSharp/become_student/Exercises/OtherInput/bin/Debug/netcoreapp2.2/OtherInput.pdb
+/home/smokysk/Studies/CSharp/become_student/Exercises/OtherInput/obj/Debug/netcoreapp2.2/OtherInput.csprojAssemblyReference.cache
+/home/smokysk/Studies/CSharp/become_student/Exercises/OtherInput/obj/Debug/netcoreapp2.2/OtherInput.csproj.CoreCompileInputs.cache
+/home/smokysk/Studies/CSharp/become_student/Exercises/OtherInput/obj/Debug/netcoreapp2.2/OtherInput.AssemblyInfoInputs.cache
+/home/smokysk/Studies/CSharp/become_student/Exercises/OtherInput/obj/Debug/netcoreapp2.2/OtherInput.AssemblyInfo.cs
+/home/smokysk/Studies/CSharp/become_student/Exercises/OtherInput/obj/Debug/netcoreapp2.2/OtherInput.dll
+/home/smokysk/Studies/CSharp/become_student/Exercises/OtherInput/obj/Debug/netcoreapp2.2/OtherInput.pdb
