@@ -1,0 +1,11 @@
+/home/smokysk/Studies/CSharp/become_student/ExercisesLoop/3/obj/Debug/netcoreapp2.2/3.csprojAssemblyReference.cache
+/home/smokysk/Studies/CSharp/become_student/ExercisesLoop/3/obj/Debug/netcoreapp2.2/3.csproj.CoreCompileInputs.cache
+/home/smokysk/Studies/CSharp/become_student/ExercisesLoop/3/obj/Debug/netcoreapp2.2/3.AssemblyInfoInputs.cache
+/home/smokysk/Studies/CSharp/become_student/ExercisesLoop/3/obj/Debug/netcoreapp2.2/3.AssemblyInfo.cs
+/home/smokysk/Studies/CSharp/become_student/ExercisesLoop/3/bin/Debug/netcoreapp2.2/3.deps.json
+/home/smokysk/Studies/CSharp/become_student/ExercisesLoop/3/bin/Debug/netcoreapp2.2/3.runtimeconfig.json
+/home/smokysk/Studies/CSharp/become_student/ExercisesLoop/3/bin/Debug/netcoreapp2.2/3.runtimeconfig.dev.json
+/home/smokysk/Studies/CSharp/become_student/ExercisesLoop/3/bin/Debug/netcoreapp2.2/3.dll
+/home/smokysk/Studies/CSharp/become_student/ExercisesLoop/3/bin/Debug/netcoreapp2.2/3.pdb
+/home/smokysk/Studies/CSharp/become_student/ExercisesLoop/3/obj/Debug/netcoreapp2.2/3.dll
+/home/smokysk/Studies/CSharp/become_student/ExercisesLoop/3/obj/Debug/netcoreapp2.2/3.pdb
